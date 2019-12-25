@@ -1,0 +1,10 @@
+colorama
+argparse
+importlib
+colorlog
+logging
+base64
+requests
+json
+re
+lxml
